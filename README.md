@@ -1,7 +1,5 @@
  ![png-transparent-ntt-data-hd-logo-removebg-preview](https://github.com/user-attachments/assets/2a3cec06-2f52-4b7b-82fa-5dba30538834)
 
-  
-![png-clipart-computer-icons-hospital-emoji-health-care-emoji-rectangle-hospital-thumbnail-removebg-preview](https://github.com/user-attachments/assets/4d9bc852-87c5-4b85-b834-f033ece51423)
 # Projeto NTTdata Saúde – Pipeline com Databricks
 
 Este projeto realiza o tratamento, visualização e análise de dados simulados de saúde utilizando Apache Spark com Databricks.
