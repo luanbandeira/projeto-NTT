@@ -14,10 +14,10 @@ Este projeto realiza o tratamento, visualização e análise de dados simulados 
 - Evolução mensal de exames
 - Cruzamento entre exames e cirurgias por paciente
 
-## Dados de Atendimentos
+## Visualizações geradas para os dados de Atendimentos
 
 Com foco específico nos dados de atendimentos, as seguintes visualizações foram desenvolvidas na camada Gold:
 
-- Distribuição de Atendimentos por Local**: Gráfico de barras ou pizza para entender a proporção de atendimentos em diferentes locais de atendimento, após um processo de limpeza e padronização dos nomes.
-- Evolução Mensal de Atendimentos**: Gráfico de linha que exibe a tendência e o volume de atendimentos ao longo dos meses e anos, permitindo identificar padrões.
-- Atendimentos por Médico**: Gráfico de barras que mostra o desempenho dos médicos com base no total de atendimentos realizados, identificando os profissionais com maior volume de serviço.
+- Distribuição de Atendimentos por Local: Gráfico de barras ou pizza para entender a proporção de atendimentos em diferentes locais de atendimento, após um processo de limpeza e padronização dos nomes.
+- Evolução Mensal de Atendimentos: Gráfico de linha que exibe a tendência e o volume de atendimentos ao longo dos meses e anos, permitindo identificar padrões.
+- Atendimentos por Médico: Gráfico de barras que mostra o desempenho dos médicos com base no total de atendimentos realizados, identificando os profissionais com maior volume de serviço.
