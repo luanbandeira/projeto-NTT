@@ -9,7 +9,7 @@ Este projeto realiza o tratamento, visualização e análise de dados simulados 
 - Tratamento e padronização--> (🥈camada Silver)
 - Visualização com matplotlib(exames e cirurgias) e Databricks UI(atendimentos)--> (🥇camada Gold)
 
-## Visualizações geradas
+## Visualizações geradas para Exames e Cirurgias
 - Top 10 exames, cirurgias, doenças e hospitais
 - Evolução mensal de exames
 - Cruzamento entre exames e cirurgias por paciente
